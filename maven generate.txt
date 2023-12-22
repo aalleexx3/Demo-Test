@@ -1,1 +1,1 @@
-mvn archetype:generate -DgroupId=org.openjfx -DartifactId=idksomething -DarchetypeArtifactId=javafx-archetype-simple -DarchetypeVersion=0.0.3 -Dversion=1.0.0 -Djavafx-version=21.0.1
+asdadadmvn archetype:generate -DgroupId=org.openjfx -DartifactId=idksomething -DarchetypeArtifactId=javafx-archetype-simple -DarchetypeVersion=0.0.3 -Dversion=1.0.0 -Djavafx-version=21.0.1
